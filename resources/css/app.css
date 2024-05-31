@@ -1,0 +1,9 @@
+.justify-text {
+    text-align: justify;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #ffffff; /* Ganti dengan warna yang sesuai */
+}
+
